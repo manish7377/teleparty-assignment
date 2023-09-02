@@ -57,7 +57,7 @@ const UserSearch = () => {
     }
   };
 
-  const debouncedGetUser = debounceFunc(fetchData, 1000);
+  const debouncedGetUser = debounceFunc(fetchData, 200);
 
   const handleOnChange = (e) => {
     setSearchText(e.target.value);
