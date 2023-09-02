@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/teleparty-assignment/static/css/main.4f141332.css",
-    "main.js": "/teleparty-assignment/static/js/main.87e523f3.js",
+    "main.js": "/teleparty-assignment/static/js/main.19f0230d.js",
     "static/js/787.0c3f432a.chunk.js": "/teleparty-assignment/static/js/787.0c3f432a.chunk.js",
     "index.html": "/teleparty-assignment/index.html",
     "main.4f141332.css.map": "/teleparty-assignment/static/css/main.4f141332.css.map",
-    "main.87e523f3.js.map": "/teleparty-assignment/static/js/main.87e523f3.js.map",
+    "main.19f0230d.js.map": "/teleparty-assignment/static/js/main.19f0230d.js.map",
     "787.0c3f432a.chunk.js.map": "/teleparty-assignment/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f141332.css",
-    "static/js/main.87e523f3.js"
+    "static/js/main.19f0230d.js"
   ]
 }
